@@ -1,0 +1,8 @@
+{
+  "name": "MyBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Marcel-dev2009/MyBlog.git",
+  "author": "Marcel <izuobasomtochukwu@gmail.com>",
+  "license": "MIT"
+}
